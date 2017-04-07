@@ -1,7 +1,6 @@
 # &lt;Router>
 # &lt;路由>
-The common low-level interface for all router components. Typically apps will use one of the high-level routers instead:
-
+The common low-level interface for all router components. Typically apps will use one of the high-level routers instead:</br>所有路由组件共同的基础接口。一般app使用高级router中的一个接口
 - [`<BrowserRouter>`](../../../react-router-dom/docs/api/BrowserRouter.md)
 - [`<HashRouter>`](../../../react-router-dom/docs/api/HashRouter.md)
 - [`<MemoryRouter>`](MemoryRouter.md)
